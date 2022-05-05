@@ -1,7 +1,3 @@
-# Full Stack
-Me chamo Pedro e moro em Curitiba, Paraná, faço faculdade de Ciência da Computação e sou um DEV
-
-## Links Úteis
-[Meu linkedin](https://www.linkedin.com/in/pedro-castro-250620214/)
-<br>
-[Meu Currículo](https://pedrocastro0507.github.io/index.html)
+Atualmente estou no meu primeiro período da faculdade no curso Bacharel Ciência da Computação e 
+com alguns cursos finalizados Front End & Back End. 
+Além disso sempre me mantenho atualizado com cursos intensivos online.
